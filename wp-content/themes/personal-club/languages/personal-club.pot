@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Personal Club\n"
+"POT-Creation-Date: 2019-03-02 17:45+0530\n"
+"PO-Revision-Date: 2019-03-02 17:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: Grace Themes <support@gracethemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....<br />Don't worry... it happens "
+"to the best of us."
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18 content-search.php:28 content-single.php:30
+#: content.php:39 image.php:56 template-full-width.php:24
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-search.php:39 content-single.php:41
+#: content.php:16 image.php:30 image.php:62
+msgid "Edit"
+msgstr ""
+
+#: content.php:32
+msgid "Learn More &rarr;"
+msgstr ""
+
+#: content.php:36
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: footer.php:42
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:44
+msgid "https://gracethemes.com/themes/personal-club/"
+msgstr ""
+
+#: footer.php:45
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:52
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:61
+msgid "Header Widget"
+msgstr ""
+
+#: functions.php:62
+msgid "Appears on the site header"
+msgstr ""
+
+#: functions.php:71
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:72 functions.php:82 functions.php:92 functions.php:102
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:91
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:101
+msgid "Footer Widget 4"
+msgstr ""
+
+#: header.php:98
+msgid "Menu"
+msgstr ""
+
+#: image.php:20
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/about-themes.php:11 inc/about-themes.php:20
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:22
+msgid ""
+"Personal Club is a simple, clean, easy to use and user-friendly free "
+"personal blog WordPress theme. This theme is developed for to create "
+"personal or blogging websites. It can also be used for fashion blog, "
+"portfolio, beauty & spa, lifestyle, news, travel, photography and food blog "
+"websites. This theme is compatible with many popular WordPress plugins like "
+"Contact Form 7, Gravity forms, WooCommerce, NextGEN gallery, Revolution "
+"slider, Cyclone slider, Jetpack, Yoast"
+msgstr ""
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr ""
+
+#: inc/about-themes.php:27
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about-themes.php:28
+msgid ""
+"The built-in customizer panel quickly change aspects of the design and "
+"display changes live before saving them."
+msgstr ""
+
+#: inc/about-themes.php:32
+msgid "Responsive Ready"
+msgstr ""
+
+#: inc/about-themes.php:33
+msgid ""
+"The themes layout will automatically adjust and fit on any screen resolution "
+"and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr ""
+
+#: inc/about-themes.php:37
+msgid "Cross Browser Compatible"
+msgstr ""
+
+#: inc/about-themes.php:38
+msgid ""
+"Our themes are tested in all mordern web browsers and compatible with the "
+"latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr ""
+
+#: inc/about-themes.php:42
+msgid "E-commerce"
+msgstr ""
+
+#: inc/about-themes.php:43
+msgid ""
+"Fully compatible with WooCommerce plugin. Just install the plugin and turn "
+"your site into a full featured online shop and start selling products."
+msgstr ""
+
+#: inc/about-themes.php:50
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:51
+msgid "Purchase Pro"
+msgstr ""
+
+#: inc/about-themes.php:52
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Theme Options Panel"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Check to Box Layout"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "If you want to box layout please check the Box Layout Option."
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Color Scheme Options"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "More color options in available PRO Version"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Header social icons"
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Add social icons link here to display icons in header"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Check To show This Section"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Default image size for frontpage slider is 1400 x 630 pixel."
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Add slider Read more button name here"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Check To Show This Section"
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
